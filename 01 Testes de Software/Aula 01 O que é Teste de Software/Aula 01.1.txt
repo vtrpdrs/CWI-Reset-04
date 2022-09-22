@@ -1,0 +1,30 @@
+Entrada --> Processamento --> Saída
+
+Quais são as entradas, qual o processamento, e qual a saida?
+Primeiro entender quais são as entradas, quais as saidas, e o que se espera do processamento.
+
+Falha / Defeito / Bug / Engano
+
+O que é teste de software?
+
+	- Glenford Myers: "Uma atividade destrutiva"
+	- Michael Bolton: "Conhecer, aprender e explorar"
+	- ISQTB: "Avaliar um produto de software, atender ao propósito e requisito e detectar defeitos"
+	
+Lembre-se:
+	
+	Tenha suas referências, construa seu conhecimento a partir delas.
+	
+Próximas discussões:
+	
+	Como é codificado um software?
+	Como eu exercito essas entradas?
+	Como eu identifico essas entradas?
+	O que há dentro do software?
+	Há diferenças em utilizar o software como um ser humano ou como uma máquina?
+	Apenas Regras de Negócio servem como oráculo da aplicação?
+	Como validar se a compreensão foi correta ou se foi escrita corretamente?
+	Como priorizar o que devo testar?
+	Como testar de maneira estática?
+	É possível testar de maneira automatizada?
+	Processos de teste?
